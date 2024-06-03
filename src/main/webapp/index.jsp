@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Syed_Irfan technologies</h1> 
-			<h4>DevOps and AWS Coachng Contact: +91-8978540230 Email: irfan26syed@gmail.com</h4> 
+			<h1>Ramesh_Cloud & Devops_ Engineer</h1> 
+			<h4>DevOps and AWS Coachng Contact: +91-7997486645 Email: rameshavula507@gmail.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -37,6 +37,7 @@
 				<li><a href="#tabs-2">Aws</a></li>
 				<li><a href="#tabs-3">Cloud Platform</a></li>
 				<li><a href="#tabs-4">Azure Cloud</a></li>
+				<li><a href="#tabs-4">Linux system administrator</a></li>
 			</ul>
 			<div id="tabs-1">
 				<p>https://en.wikipedia.org/wiki/DevOps</p>
